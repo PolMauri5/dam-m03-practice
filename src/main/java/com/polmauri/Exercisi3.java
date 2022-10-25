@@ -18,7 +18,6 @@ public class Exercisi3 {
 
         if (estatFigura) {
             preuFinal = preuFigura * 1.25f;
-
         } else {
             preuFinal = preuFigura * 1.10f;
         }
